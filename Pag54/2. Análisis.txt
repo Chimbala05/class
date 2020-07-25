@@ -1,0 +1,8 @@
+Variables
+Entrada: Cuota, Tardanza
+Salida: Mora, Descuento, DeudaTotal
+
+Fórmulas
+Mora = Cuota * 0.05
+Descuento = Cuota * 0.10
+DeudaTotal = (Cuota + Mora) - Descuento

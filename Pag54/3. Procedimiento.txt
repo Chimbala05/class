@@ -1,0 +1,14 @@
+1. Inicio
+2. Declarar variables (Cuota y Tardanza)
+3. Llenar variables de entradas
+4. Si hay entrada inválida, volver al paso 3
+5. Si Tardanza es mayor o igual a 1 entonces
+   Calcular Mora
+   De lo contrario
+   Calcular descuento
+6. Calcular DeudaTotal
+7. Mostrar resultados
+8. Llenar variable de entrada (Repetir)
+9. Si repetir es igual a 1 entonces
+   Volver al paso 5
+10. Fin

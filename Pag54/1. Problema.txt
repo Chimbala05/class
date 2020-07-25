@@ -1,0 +1,10 @@
+Página 54:
+
+Haga un diagrama de flujo y un programa que aplique una mora de un cinco 5% de la
+cuota a un cliente si el pago es tardío y aplique un 10% de descuento si el pago se
+hace a tiempo.
+
+El programa deberá mostrar el total a pagar o el neto a pagar, dependiendo se hace
+descuento o se cobra mora.
+
+Debe hacer la prueba de escritorio.
