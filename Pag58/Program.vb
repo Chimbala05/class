@@ -4,27 +4,27 @@ Module Program
     Sub Main()
 
         'Declarar variables
-        Dim Nota, Repetir As Double
+        Dim Edad, Repetir As Double
 
 Entrada:
 
-        'Llenar variable de entrada (Nota)
+        'Llenar variable de entrada (Edad)
         Try
-            Console.Write("Digite la nota: ")
-            Nota = Console.ReadLine()
+            Console.Write("Digite la edad: ")
+            Edad = Console.ReadLine()
         Catch ex As Exception
             Console.WriteLine()
-            Console.WriteLine("Debe introducir su nota en formato númerico")
+            Console.WriteLine("Debe introducir su edad en formato númerico")
             GoTo Entrada
         End Try
 
-        'Si Nota es mayor o igual a 70 entonces aprueba, y reprueba si es menor
-        If Nota >= 70 Then
+        'Si Edad es mayor o igual a 18 entonces es mayor de edad; de lo contrario, es menor
+        If Edad >= 18 Then
             Console.WriteLine()
-            Console.WriteLine("    APROBADO")
+            Console.WriteLine("    Es mayor de edad")
         Else
             Console.WriteLine()
-            Console.WriteLine("    REPROBADO")
+            Console.WriteLine("    Es menor de edad")
         End If
 
         'Llenar variable de entrada (Repetir)
@@ -37,6 +37,5 @@ Entrada:
             Console.Clear()
             GoTo Entrada
         End If
-
     End Sub
 End Module
