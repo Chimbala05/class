@@ -1,0 +1,6 @@
+Definición del problema
+
+Haga un diagrama de flujo y un programa que evalué la nota de un estudiante y
+muestre un por pantalla el mensaje “APROBADO” si dicha nota es mayor o igual a 70 o
+“REPROBADO” si es menor.
+Haga la prueba de escritorio.

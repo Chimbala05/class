@@ -1,0 +1,8 @@
+Análisis
+
+Variables
+Entrada: Edad, Repetir
+Salida: Sin variable de salida
+
+Fórmulas
+Ninguna

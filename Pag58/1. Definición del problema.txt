@@ -1,0 +1,5 @@
+Definición del problema
+
+Haga un diagrama de flujo y un programa que muestre por pantalla los datos de las
+personas mayores de edad e imprima los datos de las personas menores de edad.
+Haga la prueba de escritorio.

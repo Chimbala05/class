@@ -1,0 +1,11 @@
+Procedimiento
+
+1. Inicio
+2. Declarar variable
+3. Llenar variable de entrada(Edad)
+4. Si Nota <> Double entonce voler al paso 3
+5. Si Nota >= 18 entonces mostrar "Es mayor de edad"
+De lo contrario, mostrar: "Es menor de edad"
+6. Llenar variable de entrada(Repetir)
+7. Si Repetir = 1 entonces volver al paso 3
+8. Fin
